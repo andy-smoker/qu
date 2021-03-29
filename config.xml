@@ -1,0 +1,17 @@
+<config>
+    <file
+            source_path="C:\Windows\system32"
+            destination_path="C:\Program files"
+            file_name="test.txt"
+    />
+    <file
+            source_path="./test"
+            destination_path="./test1"
+            file_name="test.xlsx"
+    />
+    <file
+            source_path="./test"
+            destination_path="./test1"
+            file_name="test22.txt"
+    />
+</config> 
